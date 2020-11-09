@@ -18,8 +18,4 @@
     <ProjectReference Include="..\PieShop.Shared\PieShop.Shared.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Services\" />
-  </ItemGroup>
-
 </Project>
