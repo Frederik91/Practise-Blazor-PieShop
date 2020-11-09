@@ -1,0 +1,9 @@
+C:\Users\frte\source\repos\PieShop.App\PieShop.Shared\bin\Debug\netstandard2.0\PieShop.Shared.deps.json
+C:\Users\frte\source\repos\PieShop.App\PieShop.Shared\bin\Debug\netstandard2.0\PieShop.Shared.dll
+C:\Users\frte\source\repos\PieShop.App\PieShop.Shared\bin\Debug\netstandard2.0\PieShop.Shared.pdb
+C:\Users\frte\source\repos\PieShop.App\PieShop.Shared\obj\Debug\netstandard2.0\PieShop.Shared.AssemblyInfoInputs.cache
+C:\Users\frte\source\repos\PieShop.App\PieShop.Shared\obj\Debug\netstandard2.0\PieShop.Shared.AssemblyInfo.cs
+C:\Users\frte\source\repos\PieShop.App\PieShop.Shared\obj\Debug\netstandard2.0\PieShop.Shared.dll
+C:\Users\frte\source\repos\PieShop.App\PieShop.Shared\obj\Debug\netstandard2.0\PieShop.Shared.pdb
+C:\Users\frte\source\repos\PieShop.App\PieShop.Shared\obj\Debug\netstandard2.0\PieShop.Shared.csprojAssemblyReference.cache
+C:\Users\frte\source\repos\PieShop.App\PieShop.Shared\obj\Debug\netstandard2.0\PieShop.Shared.csproj.CoreCompileInputs.cache
